@@ -7,4 +7,4 @@
 <a href="mailto:nqhhoang2002@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/hoangnqh/hoangnqh/main/img/gmail.png" alt="hoangnqh" height="30" width="40" /></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangnqh&show_icons=true&locale=en&layout=compact" alt="hoangnqh"/></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangnqh&layout=compact"/>
